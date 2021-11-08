@@ -4,9 +4,9 @@
 
 > Do dope shit.
 
-🇺🇸 San Francisco・🕹 Web developer
+🇺🇸 San Francisco, CA 
 
-https://connorleech.info/
+Personal site [connorleech.info](https://connorleech.info/)
 
 Building [Employbl.com](https://www.employbl.com)
 
