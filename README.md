@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=connor11528&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+
+### Hello 👋
+
+> Do dope shit.
+
+🇺🇸 San Francisco・🕹 Web developer
+
+https://connorleech.info/
+
+
 
 <!--
 **connor11528/connor11528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
