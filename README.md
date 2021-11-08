@@ -8,7 +8,7 @@
 
 Personal site [connorleech.info](https://connorleech.info/)
 
-Building [Employbl.com](https://www.employbl.com)
+Building [Employbl.com](https://www.employbl.com) in free time
 
 
 
