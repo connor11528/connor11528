@@ -6,7 +6,7 @@
 
 🇺🇸 San Francisco, CA 
 
-My personal website is [connorleech.info](https://connorleech.info/). [Employbl.com](https://www.employbl.com) is the website I contribute to in my free time when I'm not working a full time job, raising my children, working out, doing things outside or playing browser games.
+My personal website is [connorleech.info](https://connorleech.info/). [Employbl.com](https://www.employbl.com) is the website I contribute to in my free time when I'm not working a full time job, raising my children, lifting weights, doing things outside or playing browser games.
 
 
 
