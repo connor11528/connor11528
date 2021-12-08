@@ -2,13 +2,11 @@
 
 ### Hello 👋
 
-> Do dope shit.
+> I'm Connor, software developer extraordinaire. Welcome to my GitHub profile.
 
 🇺🇸 San Francisco, CA 
 
-Personal site [connorleech.info](https://connorleech.info/)
-
-Building [Employbl.com](https://www.employbl.com) in free time
+My personal website is [connorleech.info](https://connorleech.info/). [Employbl.com](https://www.employbl.com) is the website I work on in my free time when I'm not working full time, raising my children, working out, doing things outside or playing browser games.
 
 
 
