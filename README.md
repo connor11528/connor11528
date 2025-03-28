@@ -5,3 +5,9 @@
 > Welcome to my GitHub profile.
 
 🇺🇸 San Francisco, CA 
+
+## My stack
+
+Random tools i use:
+
+![](https://skillicons.dev/icons?i=typescript,javascript,tailwind,nextjs,react,php,laravel,mysql,postgresql,redis,phpstorm,git,github,html) 
