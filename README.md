@@ -8,4 +8,4 @@
 
 ## My stack
 
-![](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,tailwind,laravel,postgresql,redis,,mysql,php) 
+![](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,tailwind,laravel,postgresql,redis,mysql,php) 
