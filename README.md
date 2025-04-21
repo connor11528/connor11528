@@ -8,6 +8,4 @@
 
 ## My stack
 
-Random tools i use:
-
-![](https://skillicons.dev/icons?i=typescript,javascript,tailwind,nextjs,react,php,laravel,mysql,postgresql,redis,phpstorm,git,github,html) 
+![](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,tailwind,laravel,postgresql,redis,,mysql,php) 
