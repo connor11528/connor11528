@@ -2,12 +2,10 @@
 
 > Welcome to my GitHub profile.
 
-🇺🇸 San Francisco, CA 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=connor11528" alt="GitHub Streak" /></a>
-
-
-## My stack
-
-![](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,tailwind,laravel,postgresql,redis,mysql,php) 
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="Connor Leech Github Streak" alt="Connor's GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=connor11528&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
